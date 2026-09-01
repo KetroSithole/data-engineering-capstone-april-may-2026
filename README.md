@@ -4,6 +4,9 @@ A self-contained data engineering capstone for the April-May 2026 intern
 intake: build a star-schema data warehouse from a single raw banking
 extract, using SSIS and SQL Server.
 
+**Due date: 25 September 2026.** Open your pull request by this date, see
+[How to submit your work](#how-to-submit-your-work).
+
 ## Background
 
 You work in the data team of a South African retail bank. The bank's
