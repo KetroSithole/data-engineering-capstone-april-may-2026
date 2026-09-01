@@ -1,6 +1,6 @@
 # Data Dictionary: Raw Source Extract
 
-The source file is `data/raw/customer_activity_extract.csv`, a single
+The source file is `data/raw/activity_extract.csv`, a single
 comma delimited file with a header row, UTF-8 encoded. It is a raw,
 uncleaned export exactly as it left the source system. There are no
 separate tables and no ready made primary keys. Each row represents one

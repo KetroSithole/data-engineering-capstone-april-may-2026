@@ -1,4 +1,4 @@
--- Landing table for the raw combined extract in data/raw/customer_activity_extract.csv.
+-- Landing table for the raw combined extract in data/raw/activity_extract.csv.
 -- Use this as the SSIS Flat File / OLE DB destination target for your
 -- staging load. Types are intentionally loose (mostly VARCHAR) because the
 -- source data has not been cleaned yet. Coerce types further downstream
@@ -51,4 +51,4 @@ GO
 
 -- The staging and dw schemas are deliberately left empty here.
 -- Splitting this single extract into cleaned staging tables, then into
--- your final dimension and fact tables, is your task. See PROJECT_SCOPE.md.
+-- your final dimension and fact tables, is your task. See README.md.
